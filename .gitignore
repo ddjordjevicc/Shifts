@@ -1,0 +1,17 @@
+# Build i dist folderi
+/build/
+/dist/
+
+# NetBeans privatne postavke
+/nbproject/private/
+
+# Klase i logovi
+*.class
+*.log
+
+# Ostalo što se često ignoriše
+*.jar
+*.war
+*.ear
+
+
