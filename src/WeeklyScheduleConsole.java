@@ -83,7 +83,7 @@ public class WeeklyScheduleConsole {
         // Generisanje rasporeda
         generateSchedule(employees, requiredStaff);
 
-        // Ispis u konzoli
+        // Ispis u konzolii
         printSchedule(employees, requiredStaff);
     }
 
