@@ -35,7 +35,7 @@ public class WeeklyScheduleConsole {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Lista zaposlenih (uvek ista)
+        // Lista zaposlenih (uvek ista))
         List<Employee> employees = Arrays.asList(
                 new Employee("Alfonso", true),
                 new Employee("Victor", true),
